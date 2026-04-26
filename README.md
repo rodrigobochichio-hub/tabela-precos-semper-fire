@@ -1,6 +1,6 @@
 # Tabela de Preços · Semper Fire
 
-Site interno de consulta de preços para os funcionários da Semper Fire.
+Site interno de consulta de preços para os funcionários da Semper Fire. (Com ajuda do Claude)
 
 🔗 **Acesso:** https://precos-semper-fire.pages.dev (após deploy)
 
