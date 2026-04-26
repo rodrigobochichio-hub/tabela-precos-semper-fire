@@ -190,8 +190,8 @@ function filterProdutos() {
 function sortProdutos(items) {
   const sorted = [...items];
   if (state.sort === 'desc') sorted.sort((a,b) => a.desc.localeCompare(b.desc, 'pt-BR'));
-  else if (state.sort === 'pcc-asc') sorted.sort((a,b) => a.pcc - b.pcc);
-  else if (state.sort === 'pcc-desc') sorted.sort((a,b) => b.pcc - a.pcc);
+  else if (state.sort === 'pcc-asc') sorted.sort((a,b) => roundUp10(a.pcc) - roundUp10(b.pcc));
+  else if (state.sort === 'pcc-desc') sorted.sort((a,b) => roundUp10(b.pcc) - roundUp10(a.pcc));
   else if (state.sort === 'cat') {
     const order = {'Armas':1, 'Munição':2, 'Carregadores':3};
     sorted.sort((a,b) => {
@@ -249,18 +249,24 @@ function renderCard(p) {
     <div class="card-prices">
       <div class="price-block highlight">
         <span class="price-label">À vista</span>
-        <span class="price-value"><span class="price-currency">R$</span>${formatBR(p.psc)}</span>
+        <span class="price-value"><span class="price-currency">R$</span>${formatBR(roundUp10(p.psc))}</span>
       </div>
       <div class="price-block">
         <span class="price-label">Cartão 12x</span>
-        <span class="price-value"><span class="price-currency">R$</span>${formatBR(p.pcc)}</span>
+        <span class="price-value"><span class="price-currency">R$</span>${formatBR(roundUp10(p.pcc))}</span>
       </div>
     </div>
   </article>`;
 }
 
+// Arredonda SEMPRE pra cima em múltiplos de R$ 10
+// Ex: 137,38 → 140 ; 12876,13 → 12880 ; 8000,00 → 8000 (já é múltiplo)
+function roundUp10(n) {
+  return Math.ceil(n / 10) * 10;
+}
+
 function formatBR(n) {
-  return n.toLocaleString('pt-BR', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  return n.toLocaleString('pt-BR', { minimumFractionDigits: 0, maximumFractionDigits: 0 });
 }
 
 function escapeHtml(s) {
