@@ -65,6 +65,8 @@ Catálogo atual:
 
 A senha é validada por hash SHA-256 no JavaScript. Pra trocar:
 
+link: https://emn178.github.io/online-tools/sha256.html
+
 1. Calcule o hash da nova senha:
    ```bash
    echo -n "novaSenha" | sha256sum
