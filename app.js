@@ -3,7 +3,7 @@
    =========================================== */
 
 // Hash SHA-256 da senha (semperfire2026)
-const SENHA_HASH = '3ee9c3771306d14221b4ae8c109063b49b4b81c0369430d1d5b38321fd9a9f5d';
+const SENHA_HASH = 'f942bc86e1b0951731e5ce1c43b911163d9c4f596c5974ef1ae9ea2c1e2c8329';
 const SESSION_KEY = 'sf-precos-auth';
 
 // === Dados ===
