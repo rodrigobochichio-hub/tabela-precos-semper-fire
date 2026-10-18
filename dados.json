@@ -1,6 +1,6 @@
 {
- "atualizado_em": "23/07/2026",
- "periodo": "Julho/2026",
+ "atualizado_em": "18/10/2026",
+ "periodo": "Outubro/2026",
  "total": 446,
  "produtos": [
   {
@@ -243,8 +243,8 @@
    "forn": "CBC",
    "marca": "CBC",
    "cat": "Armas",
-   "pcc": 13979,
-   "psc": 12301
+   "pcc": 13500,
+   "psc": 11880
   },
   {
    "cod": "10022744",
@@ -387,8 +387,8 @@
    "forn": "CBC",
    "marca": "CBC",
    "cat": "Armas",
-   "pcc": 15708,
-   "psc": 13823
+   "pcc": 12028,
+   "psc": 10584
   },
   {
    "cod": "79000017",
@@ -459,8 +459,8 @@
    "forn": "CBC",
    "marca": "CBC",
    "cat": "Armas",
-   "pcc": 34369,
-   "psc": 30244
+   "pcc": 26317,
+   "psc": 23158
   },
   {
    "cod": "79000015",
@@ -468,8 +468,8 @@
    "forn": "CBC",
    "marca": "CBC",
    "cat": "Armas",
-   "pcc": 26085,
-   "psc": 22954
+   "pcc": 14596,
+   "psc": 12844
   },
   {
    "cod": "79000023",
@@ -495,8 +495,8 @@
    "forn": "CBC",
    "marca": "CBC",
    "cat": "Armas",
-   "pcc": 12039,
-   "psc": 10594
+   "pcc": 9573,
+   "psc": 8424
   },
   {
    "cod": "79000022",
@@ -1035,8 +1035,8 @@
    "forn": "CBC",
    "marca": "CBC",
    "cat": "Munição",
-   "pcc": 219,
-   "psc": 192
+   "pcc": 118,
+   "psc": 103
   },
   {
    "cod": "10032522",
@@ -2574,8 +2574,8 @@
    "forn": "PAVEI",
    "marca": "BROWNING",
    "cat": "Carregadores",
-   "pcc": 825,
-   "psc": 726
+   "pcc": 1237,
+   "psc": 1088
   },
   {
    "cod": "BRO00099",
@@ -2601,8 +2601,8 @@
    "forn": "PAVEI",
    "marca": "BROWNING",
    "cat": "Carregadores",
-   "pcc": 898,
-   "psc": 790
+   "pcc": 1390,
+   "psc": 1223
   },
   {
    "cod": "BRO00025",
@@ -2691,8 +2691,8 @@
    "forn": "PAVEI",
    "marca": "MECGAR",
    "cat": "Carregadores",
-   "pcc": 409,
-   "psc": 359
+   "pcc": 394,
+   "psc": 346
   },
   {
    "cod": "MEC00001",
@@ -2700,8 +2700,8 @@
    "forn": "PAVEI",
    "marca": "MECGAR",
    "cat": "Carregadores",
-   "pcc": 409,
-   "psc": 359
+   "pcc": 394,
+   "psc": 346
   },
   {
    "cod": "MEC00002",
@@ -2709,8 +2709,8 @@
    "forn": "PAVEI",
    "marca": "MECGAR",
    "cat": "Carregadores",
-   "pcc": 409,
-   "psc": 359
+   "pcc": 394,
+   "psc": 346
   },
   {
    "cod": "ROS00032",
@@ -2736,8 +2736,8 @@
    "forn": "PAVEI",
    "marca": "ROSSI",
    "cat": "Armas",
-   "pcc": 15010,
-   "psc": 13208
+   "pcc": 15760,
+   "psc": 13868
   },
   {
    "cod": "ROS00005",
@@ -2754,8 +2754,8 @@
    "forn": "PAVEI",
    "marca": "ROSSI",
    "cat": "Armas",
-   "pcc": 10368,
-   "psc": 9123
+   "pcc": 9985,
+   "psc": 8786
   },
   {
    "cod": "ROS00015",
@@ -2763,8 +2763,8 @@
    "forn": "PAVEI",
    "marca": "ROSSI",
    "cat": "Armas",
-   "pcc": 10066,
-   "psc": 8858
+   "pcc": 9696,
+   "psc": 8532
   },
   {
    "cod": "ROS00012",
@@ -2781,8 +2781,8 @@
    "forn": "PAVEI",
    "marca": "ROSSI",
    "cat": "Armas",
-   "pcc": 11676,
-   "psc": 10274
+   "pcc": 11242,
+   "psc": 9892
   },
   {
    "cod": "ROS00007",
@@ -2853,8 +2853,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 12466,
-   "psc": 10970
+   "pcc": 12006,
+   "psc": 10565
   },
   {
    "cod": "TAU00164",
@@ -2880,8 +2880,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 27313,
-   "psc": 24035
+   "pcc": 17809,
+   "psc": 15671
   },
   {
    "cod": "TAU00170",
@@ -2889,8 +2889,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 27313,
-   "psc": 24035
+   "pcc": 17809,
+   "psc": 15671
   },
   {
    "cod": "TAU00051",
@@ -2916,8 +2916,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 18442,
-   "psc": 16228
+   "pcc": 15793,
+   "psc": 13897
   },
   {
    "cod": "TAU00056",
@@ -2925,8 +2925,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 6886,
-   "psc": 6059
+   "pcc": 6633,
+   "psc": 5837
   },
   {
    "cod": "TAU00093",
@@ -2934,8 +2934,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 6886,
-   "psc": 6059
+   "pcc": 6633,
+   "psc": 5837
   },
   {
    "cod": "TAU00227",
@@ -2943,8 +2943,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 8008,
-   "psc": 7047
+   "pcc": 7713,
+   "psc": 6787
   },
   {
    "cod": "TAU00239",
@@ -2952,8 +2952,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 8008,
-   "psc": 7047
+   "pcc": 7713,
+   "psc": 6787
   },
   {
    "cod": "TAU00005",
@@ -2961,8 +2961,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 8295,
-   "psc": 7299
+   "pcc": 7989,
+   "psc": 7030
   },
   {
    "cod": "TAU00229",
@@ -2970,8 +2970,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 7393,
-   "psc": 6505
+   "pcc": 7120,
+   "psc": 6265
   },
   {
    "cod": "TAU00200",
@@ -2979,8 +2979,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 7783,
-   "psc": 6849
+   "pcc": 7495,
+   "psc": 6595
   },
   {
    "cod": "TAU00252",
@@ -2988,8 +2988,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 9429,
-   "psc": 8297
+   "pcc": 9081,
+   "psc": 7991
   },
   {
    "cod": "TAU00050",
@@ -2997,8 +2997,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 9925,
-   "psc": 8734
+   "pcc": 9559,
+   "psc": 8411
   },
   {
    "cod": "TAU00228",
@@ -3024,8 +3024,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 15021,
-   "psc": 13218
+   "pcc": 14466,
+   "psc": 12730
   },
   {
    "cod": "TAU00042",
@@ -3033,8 +3033,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 14409,
-   "psc": 12679
+   "pcc": 13876,
+   "psc": 12210
   },
   {
    "cod": "TAU00080",
@@ -3042,8 +3042,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 12429,
-   "psc": 10937
+   "pcc": 11970,
+   "psc": 10533
   },
   {
    "cod": "TAU00183",
@@ -3060,8 +3060,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 10956,
-   "psc": 9641
+   "pcc": 10551,
+   "psc": 9284
   },
   {
    "cod": "TAU00012",
@@ -3069,8 +3069,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 10885,
-   "psc": 9578
+   "pcc": 10483,
+   "psc": 9225
   },
   {
    "cod": "TAU00059",
@@ -3078,8 +3078,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 10885,
-   "psc": 9578
+   "pcc": 10483,
+   "psc": 9225
   },
   {
    "cod": "TAU00077",
@@ -3105,8 +3105,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 10557,
-   "psc": 9290
+   "pcc": 10167,
+   "psc": 8946
   },
   {
    "cod": "TAU00260",
@@ -3114,8 +3114,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 11839,
-   "psc": 10418
+   "pcc": 11403,
+   "psc": 10034
   },
   {
    "cod": "TAU00001",
@@ -3123,8 +3123,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 7249,
-   "psc": 6379
+   "pcc": 6981,
+   "psc": 6143
   },
   {
    "cod": "TAU00029",
@@ -3168,8 +3168,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 13939,
-   "psc": 12266
+   "pcc": 13425,
+   "psc": 11814
   },
   {
    "cod": "TAU00061",
@@ -3177,8 +3177,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 12156,
-   "psc": 10697
+   "pcc": 11707,
+   "psc": 10302
   },
   {
    "cod": "TAU00122",
@@ -3204,8 +3204,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 12156,
-   "psc": 10697
+   "pcc": 11707,
+   "psc": 10302
   },
   {
    "cod": "TAU00027",
@@ -3231,8 +3231,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 11587,
-   "psc": 10196
+   "pcc": 11160,
+   "psc": 9820
   },
   {
    "cod": "TAU00006",
@@ -3240,8 +3240,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 12363,
-   "psc": 10879
+   "pcc": 11907,
+   "psc": 10478
   },
   {
    "cod": "TAU00019",
@@ -3285,8 +3285,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 11607,
-   "psc": 10214
+   "pcc": 11179,
+   "psc": 9837
   },
   {
    "cod": "TAU00246",
@@ -3294,8 +3294,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 14118,
-   "psc": 12423
+   "pcc": 10992,
+   "psc": 9672
   },
   {
    "cod": "TAU00104",
@@ -3303,8 +3303,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 12429,
-   "psc": 10937
+   "pcc": 11970,
+   "psc": 10533
   },
   {
    "cod": "TAU00081",
@@ -3330,8 +3330,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 10195,
-   "psc": 8971
+   "pcc": 9819,
+   "psc": 8640
   },
   {
    "cod": "TAU00028",
@@ -3339,8 +3339,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 9787,
-   "psc": 8612
+   "pcc": 9426,
+   "psc": 8294
   },
   {
    "cod": "TAU00245",
@@ -3348,8 +3348,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 10962,
-   "psc": 9646
+   "pcc": 10342,
+   "psc": 9100
   },
   {
    "cod": "TAU00242",
@@ -3357,8 +3357,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 10962,
-   "psc": 9646
+   "pcc": 10813,
+   "psc": 9515
   },
   {
    "cod": "TAU00084",
@@ -3366,8 +3366,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 9763,
-   "psc": 8591
+   "pcc": 9402,
+   "psc": 8273
   },
   {
    "cod": "TAU00057",
@@ -3375,8 +3375,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 9763,
-   "psc": 8591
+   "pcc": 9402,
+   "psc": 8273
   },
   {
    "cod": "TAU00189",
@@ -3393,8 +3393,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 9763,
-   "psc": 8591
+   "pcc": 9402,
+   "psc": 8273
   },
   {
    "cod": "TAU00089",
@@ -3402,8 +3402,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 10650,
-   "psc": 9372
+   "pcc": 10257,
+   "psc": 9026
   },
   {
    "cod": "TAU00129",
@@ -3438,8 +3438,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 9426,
-   "psc": 8294
+   "pcc": 9078,
+   "psc": 7988
   },
   {
    "cod": "TAU00086",
@@ -3447,8 +3447,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 10389,
-   "psc": 9142
+   "pcc": 10005,
+   "psc": 8804
   },
   {
    "cod": "TAU00037",
@@ -3456,8 +3456,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 13372,
-   "psc": 11767
+   "pcc": 12879,
+   "psc": 11333
   },
   {
    "cod": "TAU00160",
@@ -3492,8 +3492,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 13276,
-   "psc": 11682
+   "pcc": 12786,
+   "psc": 11251
   },
   {
    "cod": "TAU00007",
@@ -3501,8 +3501,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 9127,
-   "psc": 8031
+   "pcc": 8790,
+   "psc": 7735
   },
   {
    "cod": "TAU00030",
@@ -3519,8 +3519,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 11461,
-   "psc": 10085
+   "pcc": 11037,
+   "psc": 9712
   },
   {
    "cod": "TAU00004",
@@ -3528,8 +3528,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 8904,
-   "psc": 7835
+   "pcc": 8575,
+   "psc": 7546
   },
   {
    "cod": "TAU00038",
@@ -3546,8 +3546,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 8110,
-   "psc": 7136
+   "pcc": 7812,
+   "psc": 6874
   },
   {
    "cod": "TAU00088",
@@ -3555,8 +3555,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 7219,
-   "psc": 6352
+   "pcc": 6952,
+   "psc": 6117
   },
   {
    "cod": "TAU00058",
@@ -3564,8 +3564,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 7840,
-   "psc": 6899
+   "pcc": 7551,
+   "psc": 6644
   },
   {
    "cod": "TAU00067",
@@ -3582,8 +3582,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 6877,
-   "psc": 6051
+   "pcc": 6624,
+   "psc": 5829
   },
   {
    "cod": "TAU00068",
@@ -3591,8 +3591,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 10936,
-   "psc": 9623
+   "pcc": 10533,
+   "psc": 9269
   },
   {
    "cod": "TAU00024",
@@ -3600,8 +3600,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 9585,
-   "psc": 8434
+   "pcc": 9231,
+   "psc": 8123
   },
   {
    "cod": "TAU00191",
@@ -3609,8 +3609,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 9585,
-   "psc": 8434
+   "pcc": 9231,
+   "psc": 8123
   },
   {
    "cod": "TAU00078",
@@ -3618,8 +3618,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 9585,
-   "psc": 8434
+   "pcc": 9231,
+   "psc": 8123
   },
   {
    "cod": "TAU00060",
@@ -3627,8 +3627,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 12130,
-   "psc": 10674
+   "pcc": 11683,
+   "psc": 10281
   },
   {
    "cod": "TAU00190",
@@ -3636,8 +3636,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 12301,
-   "psc": 10824
+   "pcc": 11847,
+   "psc": 10425
   },
   {
    "cod": "TAU00151",
@@ -3699,8 +3699,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 8490,
-   "psc": 7471
+   "pcc": 8176,
+   "psc": 7194
   },
   {
    "cod": "TAU00114",
@@ -3708,8 +3708,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Armas",
-   "pcc": 8490,
-   "psc": 7471
+   "pcc": 8176,
+   "psc": 7194
   },
   {
    "cod": "TAU00230",
@@ -3717,8 +3717,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Carregadores",
-   "pcc": 709,
-   "psc": 623
+   "pcc": 684,
+   "psc": 601
   },
   {
    "cod": "TAU00155",
@@ -3726,8 +3726,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Carregadores",
-   "pcc": 709,
-   "psc": 623
+   "pcc": 684,
+   "psc": 601
   },
   {
    "cod": "TAU00209",
@@ -3735,8 +3735,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Carregadores",
-   "pcc": 387,
-   "psc": 340
+   "pcc": 373,
+   "psc": 328
   },
   {
    "cod": "TAU00136",
@@ -3744,8 +3744,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Carregadores",
-   "pcc": 369,
-   "psc": 324
+   "pcc": 373,
+   "psc": 328
   },
   {
    "cod": "TAU00150",
@@ -3762,8 +3762,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Carregadores",
-   "pcc": 451,
-   "psc": 396
+   "pcc": 435,
+   "psc": 382
   },
   {
    "cod": "TAU00131",
@@ -3789,8 +3789,8 @@
    "forn": "PAVEI",
    "marca": "TAURUS",
    "cat": "Carregadores",
-   "pcc": 451,
-   "psc": 396
+   "pcc": 435,
+   "psc": 382
   },
   {
    "cod": "TAU00003",
