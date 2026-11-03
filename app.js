@@ -238,14 +238,15 @@ function render() {
 
 function renderCard(p) {
   const catCls = p.cat === 'Armas' ? 'cat-armas' : (p.cat === 'Munição' ? 'cat-municao' : 'cat-carregadores');
-  return `<article class="card">
+  return `<article class="card${p.promo ? ' card-promo' : ''}">
     <div class="card-tags">
       <span class="tag ${catCls}">${escapeHtml(p.cat)}</span>
       <span class="tag forn">${escapeHtml(p.forn)}</span>
       ${p.marca && p.marca !== p.forn ? `<span class="tag marca">${escapeHtml(p.marca)}</span>` : ''}
+      ${p.promo ? `<span class="tag promo">Promoção</span>` : ''}
     </div>
     <div class="card-desc">${escapeHtml(p.desc)}</div>
-    <div class="card-cod">Cód: ${escapeHtml(p.cod)}</div>
+    <div class="card-cod">${p.promo ? 'Preço promocional do mês' : `Cód: ${escapeHtml(p.cod)}`}</div>
     <div class="card-prices">
       <div class="price-block highlight">
         <span class="price-label">À vista</span>

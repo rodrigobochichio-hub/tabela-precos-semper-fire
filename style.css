@@ -558,3 +558,6 @@ body {
 @media (max-width: 480px) {
   .footer { flex-direction: column; gap: 4px; text-align: center; }
 }
+
+.tag.promo { background: #c0392b; color: white; border-color: #c0392b; }
+.card.card-promo { border-color: #c0392b; box-shadow: 0 0 0 1px #c0392b inset; }
